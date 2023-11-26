@@ -1,4 +1,4 @@
-![logo](https://github.com/sainathankali/sainathankali/blob/main/White%20Simple%20Real%20Estate%20Business%20Email%20Signature.png)
+![logo](https://github.com/sainathankali/sainathankali/blob/main/My.jpg)
 <h1 align="center">Hi 👋, I'm Sainath Ankali</h1>
 <h3 align="center">I am Working as Data Analyst from KSAC Banglore,India</h3>
 
