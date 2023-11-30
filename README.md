@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Dashboards and Reports Projects**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github]([github](https://github.com/sainathankali/sainathankali.git))
 
 - 📫 How to reach me **sainathankali@saksac.online**
 
